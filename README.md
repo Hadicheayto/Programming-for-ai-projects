@@ -20,7 +20,7 @@ To preprocess face image data for emotion classification tasks, leveraging Pytho
 
 Details:
 
--The dataset contains face images categorized into emotions: Angry, Happy, Neutral, Sad, and Surprised.
+-The dataset contains face images categorized into emotions: Angry, Happy, Neutral, Sad, Surprised etc....
 
 -The preprocessing tasks include resizing, normalization, and augmentation to improve the dataset's quality for machine learning tasks.
 
