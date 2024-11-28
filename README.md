@@ -2,7 +2,7 @@
 -----------------------------
 This repository contains two projects focusing on data preprocessing for machine learning tasks. Each project employs a different programming language and Object-Oriented Programming (OOP) techniques to solve distinct problems:
 
-# SMS Spam Detection (C++)
+# Project1: SMS Spam Detection (C++)
 Objective:
 To preprocess SMS text data and detect spam messages using modular and reusable code designed with advanced OOP principles in C++.
 
@@ -14,7 +14,7 @@ Details:
 
 -Advanced OOP techniques in C++ (such as inheritance, polymorphism, and encapsulation) are used to create reusable and efficient classes for text preprocessing.
 
-# Image Preprocessing for Emotion Classification (Python)
+# Project2: Image Preprocessing for Emotion Classification (Python)
 Objective:
 To preprocess face image data for emotion classification tasks, leveraging Python's dynamic OOP capabilities to create scalable and efficient pipelines.
 
